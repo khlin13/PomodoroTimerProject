@@ -1,0 +1,4 @@
+//check animation
+//repeat frame 9 three times
+total frame = 11
+frame delay = 7
